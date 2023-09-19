@@ -1,0 +1,15 @@
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.csproj.AssemblyReference.cache
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.AssemblyInfoInputs.cache
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.AssemblyInfo.cs
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.csproj.CoreCompileInputs.cache
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/calculandoIMC
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/calculandoIMC.deps.json
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/calculandoIMC.runtimeconfig.json
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/calculandoIMC.dll
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/ref/calculandoIMC.dll
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/bin/Debug/net6.0/calculandoIMC.pdb
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.dll
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/ref/calculandoIMC.dll
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.pdb
+/home/jaederazevedo/Documentos/trybe/csharp/iniciandoCsharp/calculandoIMC/obj/Debug/net6.0/calculandoIMC.genruntimeconfig.cache
